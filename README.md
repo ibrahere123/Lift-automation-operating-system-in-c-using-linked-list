@@ -1,0 +1,2 @@
+# Lift-automation-operating-system-in-c-using-linked-list
+FAST university has hired you to make an operating system for their lifts. Below are specifications of the lifts OS. The lift will be placed in a building with 6 floors including a basement. From basement to top floors are labeled as -1,0,1,2,3,4 respectively. In the morning, the lift goes into operation from  basement. The lift can go up and down
